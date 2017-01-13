@@ -1,7 +1,7 @@
 # Roll-A-Ball--OSX-Game-by-Unity
 ## Roll A Ball Game
 Customized Roll A Ball Game created by Unity3D
-Language Used: C# c
+Language Used: C# 
 
 ## Features added:
 1) Maze
