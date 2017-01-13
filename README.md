@@ -10,5 +10,4 @@ Language Used: C# c
 4) Win or Lose
 
 ##Game Screenshot
-![RollABall](https://raw.githubusercontent.com/Sheing/Roll-A-Ball--OSX-Game-by-Unity/Roll%20A%20Ball.png)
-
+![RollABall](https://raw.githubusercontent.com/Sheing/Roll-A-Ball--OSX-Game-by-Unity/master/Roll%20A%20Ball.png)
