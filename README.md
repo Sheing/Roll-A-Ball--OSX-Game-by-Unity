@@ -1,0 +1,14 @@
+# Roll-A-Ball--OSX-Game-by-Unity
+## Roll A Ball Game
+Customized Roll A Ball Game created by Unity3D
+Language Used: C# c
+
+## Features added:
+1) Maze
+2) Better color visualization
+3) Ghost 
+4) Win or Lose
+
+##Game Screenshot
+![starry](https://raw.githubusercontent.com/Sheing//Roll-A-Ball--OSX-Game-by-Unity/Roll%20A%20Ball.png)
+
